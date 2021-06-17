@@ -1,0 +1,22 @@
+server:
+  port: 5687
+
+
+spring:
+  data:
+    mongodb:
+      database: beyza
+      host: localhost
+      port: 27017
+      repositories:
+        type: auto
+#      username: asdf
+#      password: fasdfsd
+
+
+
+my-variable:
+  name: mustafa
+  password:
+    type: dtyryfjg
+    value: sana ne?
