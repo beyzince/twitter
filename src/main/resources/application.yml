@@ -5,8 +5,8 @@ server:
 spring:
   data:
     mongodb:
-      database: beyza
-      host: localhost
+      database: ---
+      host: --
       port: 27017
       repositories:
         type: auto
@@ -16,7 +16,7 @@ spring:
 
 
 my-variable:
-  name: mustafa
+  name: 
   password:
-    type: dtyryfjg
-    value: sana ne?
+    type: 
+    value: 
